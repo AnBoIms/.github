@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D3251&height=300&section=header&text=AnBoIms%20&fontSize=120&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D3251&height=200&section=header&text=AnBoIms%20&fontSize=120&fontColor=FFFFFF)
 
 <h2 align="center">👩‍💻Developer</h2>
 <div align="center">
