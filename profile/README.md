@@ -45,7 +45,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
 </div>
