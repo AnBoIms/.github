@@ -49,5 +49,5 @@
   <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
 </div>
-
+<br>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=1D3251&height=200&section=footer)
